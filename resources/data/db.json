@@ -1,0 +1,53 @@
+{
+  "products": [
+    {
+      "productName": "สลัดผัก",
+      "unitPrice": "120",
+      "thumbnail": "/images/product/1.jpg",
+      "id": 1,
+      "คำอธิบาย": "สลัดผักกาดหอม แตงกวา ต้นหอม มะเขือเทศ มะกอก",
+      "แคลอรี่": "88"
+    },
+    {
+      "productName": "ไก่ทอด",
+      "unitPrice": "90",
+      "thumbnail": "/images/product/2.jpg",
+      "id": 2,
+      "คำอธิบาย": "ไก่ทอด ราดซอสชีส                        ",
+      "แคลอรี่": "245"
+    },
+    {
+      "id": 3,
+      "productName": "บิงซู",
+      "unitPrice": "200",
+      "thumbnail": "/images/product/3.jpg",
+      "คำอธิบาย": "ราดด้วยท็อปปิ้ง ไอศกรีม,อัลมอนด์,สตรอเบอรี่,ลูกเกด",
+      "แคลอรี่": "300"
+    },
+    {
+      "productName": "เฟรนฟราย",
+      "unitPrice": "140",
+      "thumbnail": "/images/product/4.jpg",
+      "id": 4,
+      "คำอธิบาย": "เฟรนฟรายทอดร้อนๆ กรอบนอกนุ่มใน",
+      "แคลอรี่": "311"
+    },
+    {
+      "productName": "เค้ก 3 ชั้น",
+      "unitPrice": "200",
+      "thumbnail": "/images/product/5.jpg",
+      "id": 5,
+      "คำอธิบาย": "เค้กสามชั้น",
+      "แคลอรี่": "305"
+    },
+    {
+      "productName": "กาแฟ",
+      "unitPrice": "140",
+      "thumbnail": "/images/product/6.jpg",
+      "id": 6,
+      "คำอธิบาย": "กาแฟดำร้อน",
+      "แคลอรี่": "90"
+    }
+  ],
+  "orders": []
+}
